@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="20dp"
+    android:paddingBottom="20dp"
+    >
+
+    <TextView
+        android:id="@+id/txtView"
+        android:layout_width="395dp"
+        android:layout_height="70dp"
+        android:background="#2E372F"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:text="@string/olololo"
+        android:textSize="18sp" />
+
+</RelativeLayout>
